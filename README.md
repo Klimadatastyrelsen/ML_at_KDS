@@ -51,8 +51,9 @@ docker pull rasmuspjohansson/kds_spt_laz_pytorch:latest  # point clouds
 | Models | Datasets |
 | --- | --- |
 | [KDS_Permeable_surfaces](https://huggingface.co/rasmuspjohansson/KDS_Permeable_surfaces) (Befæstelse) | [example_dataset](https://huggingface.co/datasets/rasmuspjohansson/example_dataset) (10-channel aerial example) |
-| [KDS_buildings](https://huggingface.co/rasmuspjohansson/KDS_buildings) (change detection) | [KDS_objects_in_oblique_images](https://huggingface.co/datasets/rasmuspjohansson/KDS_objects_in_oblique_images) (YOLO) |
-| [KDS_spt_laz](https://huggingface.co/rasmuspjohansson/KDS_spt_laz) (point clouds) | [KDS_laz_dataset](https://huggingface.co/datasets/rasmuspjohansson/KDS_laz_dataset) (`.laz` toy data) |
+| [KDS_buildings](https://huggingface.co/rasmuspjohansson/KDS_buildings) (change detection) | [KDS_building_change_detection](https://huggingface.co/datasets/rasmuspjohansson/KDS_building_change_detection) (training data for `KDS_buildings`) |
+| [KDS_spt_laz](https://huggingface.co/rasmuspjohansson/KDS_spt_laz) (point clouds) | [KDS_objects_in_oblique_images](https://huggingface.co/datasets/rasmuspjohansson/KDS_objects_in_oblique_images) (YOLO) |
+| | [KDS_laz_dataset](https://huggingface.co/datasets/rasmuspjohansson/KDS_laz_dataset) (`.laz` toy data) |
 
 ## Contact
 
