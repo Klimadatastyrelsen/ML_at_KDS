@@ -25,6 +25,7 @@ Technical details live in each repo's README. This page is the map.
 | [ML_object_detection](https://github.com/Klimadatastyrelsen/ML_object_detection) | Train YOLO detectors; sliced inference on large images |
 | [danish-historical-map-yolo](https://github.com/rasmuspjohansson/danish-historical-map-yolo) | Object detection example on historical Danish maps |
 | [laz-superpoint_transformer](https://github.com/Klimadatastyrelsen/laz-superpoint_transformer) | Point cloud segmentation with `.laz` support |
+| [ML_datasets_on_hugging_face](https://github.com/Klimadatastyrelsen/ML_datasets_on_hugging_face) | Upload, download and version our datasets on Hugging Face |
 
 ```mermaid
 flowchart LR
