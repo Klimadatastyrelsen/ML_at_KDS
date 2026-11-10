@@ -57,4 +57,7 @@ docker pull rasmuspjohansson/kds_spt_laz_pytorch:latest  # point clouds
 
 ## Contact
 
-Questions: [rajoh@kds.dk](mailto:rajoh@kds.dk). Licenses are given in each repo. Some data on hugginface is private, but can be acessed by contacting KDS if used for non-comercial use cases 
+Questions: [rajoh@kds.dk](mailto:rajoh@kds.dk). 
+
+Licenses are given in each repo.
+Some datasets on Hugging Face are private but can be made available by contacting KDS, provided they are intended for non-commercial use.
