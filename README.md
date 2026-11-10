@@ -11,7 +11,7 @@ Technical details live in each repo's README. This page is the map.
 | Project | What it does | Use at KDS | Try it |
 | --- | --- | --- | --- |
 | **Befæstelse** (surface types) | Semantic segmentation of 10-channel aerial imagery into surface classes (asphalt, gravel, cobblestone, ...) | Fully funded, runs every year. Output on [Dataforsyningen](https://dataforsyningen.dk/labs/2259). Also used to map ground-mounted solar panels | [BEF example](https://github.com/Klimadatastyrelsen/ML_geo_production#befaestelse-bef) |
-| **Building change detection** (Ændringsudpegning) | Ensemble that segments buildings and compares them with the existing map | Used by the municipalities in 2026 to find changes in the building map | [Change detection example](https://github.com/Klimadatastyrelsen/ML_geo_production#building-change-detection) |
+| **Ændringsudpegning** (Building change detection) | Ensemble that segments buildings and compares them with the existing map | Used by the municipalities in 2026 to find changes in the building map | [Change detection example](https://github.com/Klimadatastyrelsen/ML_geo_production#building-change-detection) |
 | **Object detection** | YOLO detection in aerial and oblique images | Used in 2026 to detect windmills for change detection; output to be taken into use soon | [ML_object_detection](https://github.com/Klimadatastyrelsen/ML_object_detection) |
 | **Point cloud classification** | Superpoint Transformer on `.laz` point clouds | Promising, not yet in production | [laz-superpoint_transformer](https://github.com/Klimadatastyrelsen/laz-superpoint_transformer) |
 
@@ -25,7 +25,7 @@ Technical details live in each repo's README. This page is the map.
 | [ML_object_detection](https://github.com/Klimadatastyrelsen/ML_object_detection) | Train YOLO detectors; sliced inference on large images |
 | [danish-historical-map-yolo](https://github.com/rasmuspjohansson/danish-historical-map-yolo) | Object detection example on historical Danish maps |
 | [laz-superpoint_transformer](https://github.com/Klimadatastyrelsen/laz-superpoint_transformer) | Point cloud segmentation with `.laz` support |
-| [ML_datasets_on_hugging_face](https://github.com/Klimadatastyrelsen/ML_datasets_on_hugging_face) | Upload, download and version our datasets on Hugging Face |
+
 
 ```mermaid
 flowchart LR
