@@ -26,6 +26,8 @@ Technical details live in each repo's README. This page is the map.
 | [danish-historical-map-yolo](https://github.com/rasmuspjohansson/danish-historical-map-yolo) | Object detection example on historical Danish maps |
 | [laz-superpoint_transformer](https://github.com/Klimadatastyrelsen/laz-superpoint_transformer) | Point cloud segmentation with `.laz` support |
 
+### Flowchart for semantic segmentation pipeline
+
 
 ```mermaid
 flowchart LR
